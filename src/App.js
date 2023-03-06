@@ -3,6 +3,7 @@ import './styles.css';
 import Header from "./Header";
 import About from "./About";
 import Skills from "./Skills";
+import Project from "./Project";
 
 const App = () => {
   return(
@@ -10,6 +11,7 @@ const App = () => {
       <Header/>
       <About/>
       <Skills/>
+      <Project/>
     </React.Fragment>
   )
 }

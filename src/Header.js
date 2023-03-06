@@ -8,6 +8,3 @@ const Header = () => {
 }
 
 export default Header
-
-
-//Why div not needed?

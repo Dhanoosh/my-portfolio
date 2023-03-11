@@ -4,10 +4,10 @@ import review from './images/review.svg';
 const Project = () => {
     const projectArr = [
         {
-            title: "Produt Review Website",
-            img : review,
-            demoLink: "",
-            githubLink: ""
+            title: "My ToDo List",
+            img : "https://www.educative.io/udata/GDj41LlzyDY/myToDoList.png",
+            demoLink: "https://todo-list-d1af4.web.app",
+            githubLink: "https://github.com/Dhanoosh/todo-app"
         },
         {
             title: "Cinema Booking Website",

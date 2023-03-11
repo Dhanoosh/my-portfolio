@@ -1,11 +1,11 @@
 import cinema from './images/cinema.svg';
-import review from './images/review.svg';
+import todo from './images/todo.svg';
 
 const Project = () => {
     const projectArr = [
         {
             title: "My ToDo List",
-            img : review,
+            img : todo,
             demoLink: "https://todo-list-d1af4.web.app",
             githubLink: "https://github.com/Dhanoosh/todo-app"
         },

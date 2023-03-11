@@ -5,7 +5,7 @@ const Project = () => {
     const projectArr = [
         {
             title: "My ToDo List",
-            img : "https://www.educative.io/udata/GDj41LlzyDY/myToDoList.png",
+            img : review,
             demoLink: "https://todo-list-d1af4.web.app",
             githubLink: "https://github.com/Dhanoosh/todo-app"
         },

@@ -9,7 +9,7 @@ const About =()=>{
                 I am a full-stack developer passionate about creating
                 beautiful, responsive, and intuitive user interfaces. I have
                 a background in Software Development, and I am
-                currently pursuing Master's degree in computer science.
+                currently pursuing Master's degree in Computer Science.
                 </p>
                 <img className='about-img' src={Hero} alt='hero'></img>
             </div>

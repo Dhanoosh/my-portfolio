@@ -84,12 +84,18 @@
   .about-text {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
+    justify-content: space-between;
+    align-items: flex-start;
     font-size: 2rem;
     color: #ffffff;
     width: 90%;
   }
+  
+  .about-text p {
+    margin-bottom: 1rem;
+  }
+  
+  
   
   /* SKills  */
   

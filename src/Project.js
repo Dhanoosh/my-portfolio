@@ -32,10 +32,10 @@ const Project = () => {
                                 />
                                 <h4 className="project-title">{project.title}</h4>
                                 <div className="links" style={{margin:"2rem"}}>
-                                    <a className="project-link" href={project.demoLink}>
+                                    <a className="project-link" href={project.demoLink} target="_blank" rel="noreferrer">
                                         LIVE DEMO
                                     </a>
-                                    <a className="project-link" href={project.githubLink}>
+                                    <a className="project-link" href={project.githubLink} target="_blank" rel="noreferrer">
                                         CODE
                                     </a>
                                 </div>

@@ -41,6 +41,21 @@
     border-bottom: 1px solid var(--light-color);
     font-weight: bolder;
   }
+
+  .header-icons{
+    margin-left: 1.5rem;
+    display: flex;
+    align-items: center
+  }
+
+  .header-icons a {
+    margin-left: 1.5rem;
+    color: var(--light-color);
+  }
+
+  .header-icons a:hover {
+    color: var(--dark-color);
+  }
   
   /* About */
   .title {

@@ -8,13 +8,13 @@ const Project = () => {
             img : todo,
             demoLink: "https://todo-list-d1af4.web.app",
             githubLink: "https://github.com/Dhanoosh/todo-app"
-        },
-        {
-            title: "Cinema Booking Website",
-            img : cinema,
-            demoLink: "",
-            githubLink: ""
         }
+        // {
+        //     title: "Cinema Booking Website",
+        //     img : cinema,
+        //     demoLink: "",
+        //     githubLink: ""
+        // }
     ]
 
     return (

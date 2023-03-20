@@ -10,7 +10,7 @@ const About = () => {
           I am a driven and ambitious Computer Science graduate student at Santa Clara University, 
           with a desire to become a full-stack developer. Throughout my academic and professional career, I have cultivated a passion for creating beautiful, and meaningful websites.</p>
          
-         
+         <br/><br/>
           <p>When I am not coding, you can find me exploring creative pursuit like painting or photography. 
           I am always eager to learn and continuously seeking out new technologies in my Masters Program</p>
       

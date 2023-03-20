@@ -6,6 +6,7 @@ import Skills from "./Skills";
 import Project from "./Project";
 import Welcome from "./Welcome";
 import Presentation from "./Presentation";
+import Footer from "./Footer";
 
 const App = () => {
   return(
@@ -16,6 +17,7 @@ const App = () => {
       <Skills/>
       <Project/>
       <Presentation/>
+      <Footer/>
     </React.Fragment>
   )
 }

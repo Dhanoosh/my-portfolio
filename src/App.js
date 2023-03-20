@@ -4,14 +4,18 @@ import Header from "./Header";
 import About from "./About";
 import Skills from "./Skills";
 import Project from "./Project";
+import Welcome from "./Welcome";
+import Presentation from "./Presentation";
 
 const App = () => {
   return(
     <React.Fragment>
       <Header/>
+      <Welcome/>
       <About/>
       <Skills/>
       <Project/>
+      <Presentation/>
     </React.Fragment>
   )
 }

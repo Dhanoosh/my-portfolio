@@ -1,4 +1,4 @@
-import cinema from './images/cinema.svg';
+// import cinema from './images/cinema.svg';
 import todo from './images/todo.svg';
 
 const Project = () => {

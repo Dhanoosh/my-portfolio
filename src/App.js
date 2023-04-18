@@ -16,7 +16,6 @@ const App = () => {
       <About/>
       <Skills/>
       <Project/>
-      <Presentation/>
       <Footer/>
     </React.Fragment>
   )

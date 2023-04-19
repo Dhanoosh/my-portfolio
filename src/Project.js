@@ -1,5 +1,6 @@
 // import cinema from './images/cinema.svg';
 import todo from './images/todo.svg';
+import keyboard from './images/keyboard.svg';
 
 const Project = () => {
     const projectArr = [
@@ -9,12 +10,12 @@ const Project = () => {
             demoLink: "https://todo-list-d1af4.web.app",
             githubLink: "https://github.com/Dhanoosh/todo-app"
         }
-        // {
-        //     title: "Cinema Booking Website",
-        //     img : cinema,
-        //     demoLink: "",
-        //     githubLink: ""
-        // }
+        {
+            title: "Touchy Keyboard",
+            img : keyboard,
+            demoLink: "https://touchy-keyboard.web.app",
+            githubLink: "https://github.com/Dhanoosh/touchy-keyboard"
+        }
     ]
 
     return (

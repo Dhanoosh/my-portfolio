@@ -5,7 +5,7 @@ import About from "./About";
 import Skills from "./Skills";
 import Project from "./Project";
 import Welcome from "./Welcome";
-import Presentation from "./Presentation";
+//import Presentation from "./Presentation";
 import Footer from "./Footer";
 
 const App = () => {

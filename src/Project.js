@@ -9,7 +9,7 @@ const Project = () => {
             img : todo,
             demoLink: "https://todo-list-d1af4.web.app",
             githubLink: "https://github.com/Dhanoosh/todo-app"
-        }
+        },
         {
             title: "Touchy Keyboard",
             img : keyboard,
